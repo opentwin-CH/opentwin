@@ -1,2 +1,2 @@
 # opentwin
-Multiplatform open source software for integrating health data for human digital twins. 
+A multi-platform open-source solution for integrating human health data into digital twins.
